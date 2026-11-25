@@ -111,7 +111,7 @@ Analyzing a simulated contact centre dataset to investigate forecast accuracy, s
 
 **Project status:** Completed
 
-[View Project](YOUR-GITHUB-REPOSITORY-LINK)
+[View Project](https://github.com/bridgetgachiri/Northstarcontact-centre-analysis)
 
 ---
 ### 📊 More Projects Coming Soon
