@@ -93,7 +93,7 @@ Analyzing a fictional retail dataset to explore how viral social media trends in
 **Project status:** Completed
 
 <!-- Replace the placeholder below with your repository URL when published. -->
-[View Project](https://github.com/YOUR-GITHUB-USERNAME)
+[View Project]((https://github.com/bridgetgachiri/Power-BI-Supply-Chain-Analytics-Supplier-Selection-Scenario-Planning-Make-or-Buy-Analysis))
 
 ---
 ### 📊 Contact Centre Performance & Staffing | Forecast Accuracy, Capacity & Customer Experience
