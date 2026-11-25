@@ -90,13 +90,30 @@ Analyzing a fictional retail dataset to explore how viral social media trends in
 -Does the preferred supplier change at different volumes?
 -Is internal production economically attractive and operationally feasible after considering capacity and investment?
 
-**Project status:** In progress
+**Project status:** Completed
 
 <!-- Replace the placeholder below with your repository URL when published. -->
 [View Project](https://github.com/YOUR-GITHUB-USERNAME)
 
 ---
+### 📊 Contact Centre Performance & Staffing | Forecast Accuracy, Capacity & Customer Experience
 
+**Tools:** Excel · Operations Analytics · Workforce Management
+
+Analyzing a simulated contact centre dataset to investigate forecast accuracy, staffing gaps, and customer experience deterioration across normal, campaign, and demand spike scenarios.
+
+**Questions I'm investigating:**
+- How accurately did forecasted demand reflect actual call volumes?
+- Where were the biggest forecasting errors, and what was driving them?
+- Did staffing capacity meet operational requirements during periods of elevated demand?
+- How did staffing shortages coincide with service level deterioration, increased waiting times, and call abandonment?
+- What operational interventions could improve forecasting, workforce planning, and customer experience?
+
+**Project status:** Completed
+
+[View Project](YOUR-GITHUB-REPOSITORY-LINK)
+
+---
 ### 📊 More Projects Coming Soon
 
 I'm exploring datasets and business questions across operations, retail, customer experience, and performance analytics.
