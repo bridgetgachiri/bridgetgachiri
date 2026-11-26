@@ -69,7 +69,7 @@ I help teams understand not just **what happened, but why it happened and what t
   <img src="https://img.shields.io/badge/IEX-Workforce%20Management-334155?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cisco-Contact%20Center-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Amadeus-Travel%20Systems-E4002B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/vPool-Operations%20Reporting-64748B?style=for-the-badge" />
+ 
 </p>
 
 ---
@@ -114,25 +114,7 @@ Analyzing a simulated contact centre dataset to investigate forecast accuracy, s
 [View Project](https://github.com/bridgetgachiri/Northstarcontact-centre-analysis)
 
 ---
-### 📊 More Projects Coming Soon
 
-I'm exploring datasets and business questions across operations, retail, customer experience, and performance analytics.
-
-Each project will focus on a clear business problem, a structured analytical process, meaningful findings, and actionable recommendations.
-
----
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced%20Practice-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-In%20Progress-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Building%20Foundations-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-I'm continuously improving my ability to transform raw datasets into reliable analysis, clear visualizations, and business recommendations.
-
----
 
 ## 🤝 Let's Connect
 
@@ -145,5 +127,5 @@ I'm interested in connecting with analysts, BI professionals, recruiters, and pe
 </p>
 
 <p align="center">
-  <i>Learning continuously. Analyzing thoughtfully. Discovering posibilities.</i>
+  <i>Learning continuously. Analyzing thoughtfully. Discovering possibilities.</i>
 </p>
